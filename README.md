@@ -5,6 +5,8 @@
 </h1>
 
 
+
+
 <img align="right" width="300" src="https://res.cloudinary.com/ddunuksxx/image/upload/v1643230934/wura_rakguu.jpg" />
 
 
@@ -18,6 +20,8 @@
 - 💬 Ask me about : Technical writing, frontend development
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
 - 🤟  Hobbies: Playing Video games and shopping.
+
+
 
 
 
@@ -89,6 +93,15 @@
 <a href="https://www.linkedin.com/in/wuraola-amusat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadeeejah" height="30" width="40" /></a>
 <a href="https://instagram.com/_khadeeejah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khadeeejah" height="30" width="40" /></a>
 </p>
+
+
+
+
+## 📰 My Latest Blog Posts
+<!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://khadeeejah.hashnode.dev/how-to-maintain-a-healthy-lifestyle-as-an-it-professional" title="How to Maintain a healthy lifestyle as an IT professional"><img src="https://khadeeejah.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1606905730080%2FIgNepwkc4.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75" alt="How to Maintain a healthy lifestyle as an IT professiona" width="250px" align="left" /></a>
+
             
                  
                  
