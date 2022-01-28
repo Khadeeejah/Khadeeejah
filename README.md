@@ -5,9 +5,9 @@
 </h1>
 
 
+![image](https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg)
 
 
-<img align="right" width="300" src="https://res.cloudinary.com/ddunuksxx/image/upload/v1643230934/wura_rakguu.jpg" />
 
 
 
