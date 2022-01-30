@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+Khadijah...;Welcome+to+my+Hub!&center=true&size=20&">
   </a>
 </h1>
-<img align="right" width="300" src="https://res.cloudinary.com/ddunuksxx/image/upload/v1643230934/wura_rakguu.jpg" />
+
+![image](https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg)
 
 ### Transitioned into Tech from Public Health Looking To dive into Web3
 
