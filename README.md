@@ -11,7 +11,7 @@
 
 
 
-###  Transitioned into Tech from Public Health Looking To delve into Web3
+###  Transitioned into Tech from Public Health Looking To Delve into Web3
 
 - 🔭 I’m currently working on my portfolio website, writing more articles and staying fit
 - 🌱 I’m learning Typescript, Quality Assurance, and WEB3 at the moment
