@@ -19,7 +19,7 @@
 - 🤔 Open to a fullt-time Junior/Internship Role
 - 💬 Ask me about : Technical writing, frontend development
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
-- 🤟  Hobbies: Playing Video games and shopping.
+- 🤟  Hobbies: Playing Video games, and shopping
 
 
 
