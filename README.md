@@ -15,7 +15,11 @@
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&langs_count=8&theme=algolia"/>
 <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 
-![image](https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg)
+
+
+
+
+
 
 
 
@@ -30,6 +34,13 @@
 - 💬 Ask me about : Technical writing, frontend development
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
 - 🤟  Hobbies: Playing Video games, and shopping
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg)
+
 
 
 
