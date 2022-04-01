@@ -5,6 +5,16 @@
 </h1>
 
 
+
+
+
+## Profile Stats 📈 📉
+
+<summary><b>GitHub Analytics</b></summary>
+<img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&langs_count=8&theme=algolia"/>
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+
 ![image](https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg)
 
 
@@ -75,14 +85,7 @@
 
 
 
-## Profile Stats 📈 📉
 
-<details>
-<summary><b>GitHub Analytics</b></summary>
-<img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&langs_count=8&theme=algolia"/>
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
-</details>
 
 
 
