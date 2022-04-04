@@ -28,10 +28,10 @@
 ###  Transitioned into Tech from Public Health Looking To Delve into Web3
 
 - 🔭 I’m currently working on my portfolio website, writing more articles and staying fit
-- 🌱 I’m learning Typescript, Quality Assurance, and WEB3 at the moment
+- 🌱 I’m learning Typescript, Solidity and Rust at the moment
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 Open to a fullt-time Junior/Internship Role
-- 💬 Ask me about : Technical writing, frontend development
+- 🤔 Open to a fullt-time  Role
+- 💬 Ask me about : Technical writing, frontend development, and Web 3
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
 - 🤟  Hobbies: Playing Video games, and shopping
 
