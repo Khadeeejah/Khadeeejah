@@ -40,8 +40,7 @@
 
   <br />
   
-  <img src="https://komarev.com/ghpvc/?username=Khadeeejah&label=Profile%20views&color=0e75b6&style=flat" alt="Khadeeejah" />
-</div>
+ 
 
 &nbsp;
 ## 💻 Technologies I Work With
