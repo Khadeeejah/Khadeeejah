@@ -8,7 +8,6 @@
 
 
 
-## Profile Stats 📈 📉
 
 <summary><b>GitHub Analytics</b></summary>
 <img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
