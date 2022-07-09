@@ -33,8 +33,11 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg" width="35%" alt="Khadeeejah" />
-
   <br />
+  
+  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+</a>
   
  
 
