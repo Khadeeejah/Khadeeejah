@@ -7,7 +7,6 @@
 
 
 
-[![Khadeeejah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Khadeeejah)](https://github.com/Khadeeejah/github-readme-stats)
 
 <summary><b>GitHub Analytics</b></summary>
 <img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
@@ -18,8 +17,7 @@
 
 
 
-
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah)](https://github.com/Khadeeejah/github-readme-stats)
 
 
 
