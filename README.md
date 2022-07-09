@@ -11,13 +11,13 @@
 <summary><b>GitHub Analytics</b></summary>
 <img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&langs_count=8&theme=algolia"/>
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
 
 
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah)](https://github.com/Khadeeejah/github-readme-stats)
+[![khadeejah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0)](https://github.com/Khadeeejah/github-readme-stats)
 
 
 
