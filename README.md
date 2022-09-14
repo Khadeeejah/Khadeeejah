@@ -109,6 +109,10 @@
 <p align="left">
 <a href="https://khadeeejah.hashnode.dev/how-erc-20-token-works" title="How ERC-20 Token Works"><img src="https://khadeeejah.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1647075061944%2FWYn4Zpg8H.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75" alt="How ERC-20 token works" width="250px" align="left" /></a>
 
+ <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://khadeeejah.hashnode.dev/what-made-me-want-to-be-a-developer" title="what-made-me-want-to-be-a-developer"><img src="https://khadeeejah.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Funsplash%2FsbFmoKBK7jU%2Fupload%2Fv1660973049110%2FaS1FTRUcT.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75" alt="what made me want to be a dev" width="250px" align="left" /></a>
+
             
                  
                  
