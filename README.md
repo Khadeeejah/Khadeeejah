@@ -22,11 +22,11 @@
 
 
 
-###  Transitioned into Tech from Public Health Looking To Delve into Web3
+###  Transitioned into Tech from Public Health, now a Web3 Developer/Devrel
 
-- 🔭 I’m currently working on my portfolio website, writing more articles and staying fit
+- 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles
 - 🌱 I’m learning Typescript, Solidity and Rust at the moment
-- 👯 I’m looking to collaborate on open source projects
+- 👯 Actively contributing to Open source projects
 - 💬 Ask me about : Technical writing, frontend development, and Web 3
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
 - 🤟  Hobbies: Playing Video games, and shopping
