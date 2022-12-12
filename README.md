@@ -35,10 +35,12 @@
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
 - 🤟  Hobbies: Playing Video games, and shopping
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/52764879/151623093-11b24ff7-8370-4158-b808-fa7477688911.jpg" width="35%" alt="Khadeeejah" />
-  <br />
+
+
+[![@khadeeejah's Holopin board](https://holopin.me/khadeeejah)](https://holopin.io/@khadeeejah)
+ 
   
+  <div align="center">
   <a href="https://github.com/Khadeeejah/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
 </a>
