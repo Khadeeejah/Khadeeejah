@@ -99,7 +99,7 @@
  <h2 align="left">💬 Let's Connect</h2>
 <p align="left">
 <a href="https://twitter.com/_khadeeejah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linuxdotexe_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/wuraola-amusat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadeeejah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadijah-amusat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadeeejah" height="30" width="40" /></a>
 <a href="https://instagram.com/_khadeeejah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_khadeeejah" height="30" width="40" /></a>
 </p>
 
