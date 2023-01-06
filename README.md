@@ -28,7 +28,7 @@
 - 👯 Actively contributing to Open source projects
 - 💬 Ask me about : Technical writing, frontend development, and Web 3
 - ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
-- 🤟  Hobbies: Playing Video games, and shopping
+- 🤟  Hobbies: Playing Video games, and Travelling
 
 
 
