@@ -2,12 +2,29 @@
 
 ### ABOUT ME
 
-- 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles
-- 🌱 I’m learning Typescript, Solidity and Rust at the moment
-- 👯 Actively contributing to Open source projects
-- 💬 Ask me about : Technical writing, frontend development, and Web 3
-- ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
-- 🤟  Hobbies: Playing Video games, and Travelling
+
+🍁 I am building Delibra, a decentralized library/market place. <br>
+
+👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
+
+👯Volunteered at different tech events as a Devadvocate and organiser<br>
+
+👑Hackathon Winner and Open Source Contributor for repositories affiliated with personal, learning, community, and organization projects. <br>
+
+📖  I’m learning Typescript, Solidity and Rust at the moment. <br>
+
+⚡ Fun fact: I don't know driving <br>
+
+💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
+
+💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
+
+🤟I love traveling, listening to music , reading, and networking <br>  
+
+🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles<br>
+
+⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
+
 
 
 
