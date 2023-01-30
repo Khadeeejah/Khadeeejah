@@ -9,7 +9,13 @@
 <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
  <a href="https://www.instagram.com/_khadeeejah/"><img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a>
 <a href="mailto:wuraola81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p>
+</p><br>
+
+
+  <div align="center">
+  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+</a>
 
 
 
@@ -52,23 +58,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Khadeeejah&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 
-
-
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
-
-
-
-[![@khadeeejah's Holopin board](https://holopin.me/khadeeejah)](https://holopin.io/@khadeeejah)
- 
-  
-  <div align="center">
-  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
-</a>
-  
- 
 
 &nbsp;
 ## 💻 Technologies I Work With
@@ -111,6 +103,12 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+
+
+[![@khadeeejah's Holopin board](https://holopin.me/khadeeejah)](https://holopin.io/@khadeeejah)
+ 
+
 
 
 
