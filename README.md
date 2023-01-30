@@ -1,6 +1,13 @@
 
 
+### ABOUT ME
 
+- 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles
+- 🌱 I’m learning Typescript, Solidity and Rust at the moment
+- 👯 Actively contributing to Open source projects
+- 💬 Ask me about : Technical writing, frontend development, and Web 3
+- ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
+- 🤟  Hobbies: Playing Video games, and Travelling
 
 
 
@@ -19,16 +26,6 @@
 [![khadeejah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0)](https://github.com/Khadeeejah/github-readme-stats)
 
 
-
-
-###  Transitioned into Tech from Public Health, now a Web3 Developer/Devrel
-
-- 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles
-- 🌱 I’m learning Typescript, Solidity and Rust at the moment
-- 👯 Actively contributing to Open source projects
-- 💬 Ask me about : Technical writing, frontend development, and Web 3
-- ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)
-- 🤟  Hobbies: Playing Video games, and Travelling
 
 
 
