@@ -5,7 +5,7 @@
 
 🍁 I am building Delibra, a decentralized library/market place. <br>
 
-👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
+👩‍Google's Women Tech Maker Ambassador, and Chimoney Ambassador <br>
 
 👯Volunteered at different tech events as a Devadvocate and organiser<br>
 
