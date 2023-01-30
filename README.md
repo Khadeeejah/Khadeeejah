@@ -46,15 +46,15 @@
 
 
 <summary><b>GitHub Analytics</b></summary>
-<img align="center" alt="Khadeeejah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&hide_border=true&theme=algolia"/>
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&langs_count=8&theme=algolia"/>
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Khadeeejah&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0" />
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Khadeeejah&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
 
 
 
-
-
-[![khadeejah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=algolia&line_height=0)](https://github.com/Khadeeejah/github-readme-stats)
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
 
