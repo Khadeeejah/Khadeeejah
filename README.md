@@ -13,8 +13,6 @@
 
 📖  I’m learning Typescript, Solidity and Rust at the moment. <br>
 
-⚡ Fun fact: I don't know driving <br>
-
 💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
 
 💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
