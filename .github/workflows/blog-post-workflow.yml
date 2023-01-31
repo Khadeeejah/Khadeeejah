@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull in hashnode posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: khadeeejah/blog-post-workflow@v1
         with:
-          feed_list: "https://khadeeejah.hashnode.dev/,https://khadeeejah.hashnode.dev/feed"
+          feed_list: "https://khadeeejah.hashnode.dev/,https://khadeeejah.hashnode.dev/"
