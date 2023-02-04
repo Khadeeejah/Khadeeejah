@@ -18,18 +18,13 @@
 </a>
 
 
+ ## ABOUT ME
 
-
-
-
-### ABOUT ME
-
-
-🍁 I am building Delibra, a decentralized library/market place. <br>
+🍁 I am building [Delibra](https://delibra.xyz/), a decentralized library/bookstore. <br>
 
 👩‍Google's Women Tech Maker Ambassador, and Chimoney Ambassador <br>
 
-👯Volunteered at different tech events as a Devadvocate and organiser<br>
+👯Volunteered at different tech events as a Dev Advocate and organiser<br>
 
 👑Hackathon Winner and Open Source Contributor for repositories affiliated with personal, learning, community, and organization projects. <br>
 
@@ -46,12 +41,7 @@
 ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
 
 
-
-
-
-
-
-<summary><b>GitHub Analytics</b></summary>
+ ## ⛓️ GitHub Analytics
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -59,7 +49,6 @@
   <br>
 
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
-
 
 
 &nbsp;
@@ -105,25 +94,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
-
-[![@khadeeejah's Holopin board](https://holopin.me/khadeeejah)](https://holopin.io/@khadeeejah)
- 
-
-
-
-
-
-
-
-
-<h2>:book: Sign Out</h2>
-<h3>When you visit my profile, please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
-
-
-
-
-
-# Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
 - [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
@@ -131,16 +102,17 @@
 - [My  Chisquad Journey 🤑](https://khadeeejah.hashnode.dev/my-chisquad-journey)
 - [My Latest Project....](https://khadeeejah.hashnode.dev/my-latest-project)
 <!-- BLOG-POST-LIST:END -->
-
+<br>
             
-                 
-                 
-                 
+ 
+ 
+<h2>:book: Sign Out</h2>
+<h3>When you visit my profile, please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
+
+  
                  
        
-                 
-                 
-                 
+                                 
 ![snake gif](https://github.com/Khadeeejah/Khadeeejah/blob/output/github-contribution-grid-snake.svg)
 
 
