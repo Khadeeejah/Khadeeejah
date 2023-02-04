@@ -125,6 +125,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
+- [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
+- [Contributing to Chimoney&#39;s Api](https://khadeeejah.hashnode.dev/contributing-to-chimoneys-api)
+- [My  Chisquad Journey 🤑](https://khadeeejah.hashnode.dev/my-chisquad-journey)
+- [My Latest Project....](https://khadeeejah.hashnode.dev/my-latest-project)
 <!-- BLOG-POST-LIST:END -->
 
             
