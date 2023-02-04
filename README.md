@@ -18,7 +18,7 @@
 </a>
 
 
- ## ABOUT ME
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 🍁 I am building [Delibra](https://delibra.xyz/), a decentralized library/bookstore. <br>
 
@@ -41,7 +41,8 @@
 ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
 
 
- ## ⛓️ GitHub Analytics
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -52,8 +53,7 @@
 
 
 &nbsp;
-## 💻 Technologies I Work With
-
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Technologies I Work With :**
 ![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +77,6 @@
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 
   </details>      
-  
   
   
   ## 📱 Apps I use
