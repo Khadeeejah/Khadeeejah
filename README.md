@@ -1,8 +1,12 @@
 
+
 <p align="center"> <h1 align="center"> Hi, I am Khadijah Amusat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
          width="50" /></h1> </p>
+         
+         
+          
 <p align="center">
 <a href="https://www.linkedin.com/in/khaijah-amusat/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://twitter.com/_khadeeejah/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
@@ -93,6 +97,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
+ <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
@@ -103,7 +109,7 @@
 <!-- BLOG-POST-LIST:END -->
 <br>
             
- 
+
  
 <h2>:book: Sign Out</h2>
 <h3>When you visit my profile, please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
