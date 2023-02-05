@@ -2,13 +2,11 @@
 
 
 
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;BLOCKCHAIN+ENGINEER;DEVELOPER+ADVOCATE;TECHNICAL+WRITER)](https://git.io/typing-svg)
  
  
-<p align="center"> <h1 align="center"> Hi, I am Khadijah  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="50"
-         width="50" /></h1> </p>
+
          
          
           
