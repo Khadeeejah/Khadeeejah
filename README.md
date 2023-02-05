@@ -1,4 +1,5 @@
-<img align="right"  src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
+![woman-reading-book-under-the-tree](https://user-images.githubusercontent.com/52764879/216846533-b0bb57d2-2a30-4ea1-a555-209c523cc205.gif)
+
 
 
 
@@ -39,6 +40,7 @@
 
 💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
 
+ 
 💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
 
 🤟I love traveling, listening to music , reading, and networking <br>  
@@ -47,22 +49,25 @@
 
 ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
 
+<img align="left"  width="150" height="150" src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
 
 
+<img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
 
 
 
 
-<img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
+
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
   
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Khadeeejah&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-<img align="left" width="150" height="150" src="https://media.giphy.com/media/TSYoZ58daK68Dpw4CQ/giphy.gif"></a>
+
+
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
 
 &nbsp;
@@ -106,7 +111,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 
- <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+ 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
