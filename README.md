@@ -1,7 +1,11 @@
+<img align="right"  src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
 
-     
 
-<p align="center"> <h1 align="center"> Hi, I am Khadijah Amusat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;BLOCKCHAIN+ENGINEER;DEVELOPER+ADVOCATE;TECHNICAL+WRITER)](https://git.io/typing-svg)
+ 
+ 
+<p align="center"> <h1 align="center"> Hi, I am Khadijah  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="50"
          width="50" /></h1> </p>
@@ -46,16 +50,22 @@
 ⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
 
 
+
+
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Analytics:**
 
-<p align="center">
+
+
+
+<img align="right" width="20%" height= "20%" src="https://media.giphy.com/media/DulF4GPH4TfggoQDh0/giphy.gif"></a>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Khadeeejah&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeejah&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  
+  
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=Khadeeejah&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/TSYoZ58daK68Dpw4CQ/giphy.gif"></a>
 <img src ="https://github-readme-stats.vercel.app/api/wakatime?username=@khadeeejah&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true&background=FFFFFF00">
-
 
 &nbsp;
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Technologies I Work With :**
