@@ -122,19 +122,15 @@
 - [My Latest Project....](https://khadeeejah.hashnode.dev/my-latest-project)
 <!-- BLOG-POST-LIST:END -->
 <br>
-            
 
  
 <h2>✍🏽 Sign Out</h2>
 <h3>Please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
 
-  
                  
        
                                  
 ![snake gif](https://github.com/Khadeeejah/Khadeeejah/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 <!--
