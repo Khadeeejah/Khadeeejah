@@ -115,11 +115,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Zero to Hackathon Hero: My Journey to Victory and How You Can Win Too](https://khadeeejah.hashnode.dev/from-zero-to-hackathon-hero-my-journey-to-victory-and-how-you-can-win-too)
 - [Move Basics](https://khadeeejah.hashnode.dev/move-basics)
 - [Avalanche&#39;s Native Interoperability: A Game-Changer for Blockchain Ecosystem](https://khadeeejah.hashnode.dev/avalanches-native-interoperability-a-game-changer-for-blockchain-ecosystem)
 - [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
 - [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
-- [Contributing to Chimoney&#39;s Api](https://khadeeejah.hashnode.dev/contributing-to-chimoneys-api)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
