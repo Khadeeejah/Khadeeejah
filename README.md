@@ -28,9 +28,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-🍁 I am building [Delibra](https://delibra.xyz/), a decentralized library/bookstore. <br>
+🍁 I am building [Nuva](https://trynuva.ai/), a technology platform that provides AI and Blockchain Solutions for insurance companies and SMEs. <br>
 
-👩‍Google's Women Tech Maker Ambassador, and Chimoney Ambassador <br>
+👩‍Google's Women Tech Maker Ambassador <br>
 
 👯Volunteered at different tech events as a Dev Advocate and organiser<br>
 
@@ -41,13 +41,13 @@
 💪I am eager to acquire new knowledge and improve my skills. Currently, I'm developing my online presence by posting developer related contents on my Tiktok and doing my best to impart knowledge and assist aspiring developers who are just starting out in the tech industry. <br>  
 
  
-💬 Ask me about : Technical writing, frontend development, and Web 3 <br> 
+💬 Ask me about: Technical writing, frontend development, and Web 3 <br> 
 
-🤟I love traveling, listening to music , reading, and networking <br>  
+🤟I love travelling, listening to music, reading, and networking <br>  
 
 🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles<br>
 
-⚡ Fun fact: Aside coding, i am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
+⚡ Fun fact: Aside from coding, I am a part-time Fashion/Editorial model and also an Entrepreneur at [LOREBYDEEJAH](https://instagram.com/_lorebydeejah)<br>
 
 <img align="left"  width="150" height="150" src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"></a>
 
