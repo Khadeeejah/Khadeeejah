@@ -115,11 +115,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Launch Your Own Blockchain or Become a Validator on Avalanche](https://khadeeejah.hashnode.dev/launch-your-own-blockchain-or-become-a-validator-on-avalanche)
 - [From Zero to Hackathon Hero: My Journey to Victory and How You Can Win Too](https://khadeeejah.hashnode.dev/from-zero-to-hackathon-hero-my-journey-to-victory-and-how-you-can-win-too)
 - [Move Basics](https://khadeeejah.hashnode.dev/move-basics)
 - [Avalanche&#39;s Native Interoperability: A Game-Changer for Blockchain Ecosystem](https://khadeeejah.hashnode.dev/avalanches-native-interoperability-a-game-changer-for-blockchain-ecosystem)
 - [Solidity Smart Contract Structure](https://khadeeejah.hashnode.dev/solidity-smart-contract-structure)
-- [Understanding zkEVM](https://khadeeejah.hashnode.dev/understanding-zkevm)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
